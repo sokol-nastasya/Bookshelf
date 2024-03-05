@@ -1,0 +1,32 @@
+.result_books {
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.button_block {
+    display: block;
+}
+
+button {
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-size: 18px;
+    font-family: 'Protest Revolution', sans-serif;
+}
+
+.title {
+    height: 80px;
+    color: #457b9d;
+}
+
+.image_block {
+    height: 160px;
+}

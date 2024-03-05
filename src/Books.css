@@ -1,0 +1,33 @@
+.top_books {
+    text-align: center;
+}
+
+.books_table {
+    display: flex;
+    width: 100%;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.title_block {
+    height: 80px;
+    color: #457b9d;
+}
+
+.image_block {
+    height: 160px;
+}
+
+.button_link {
+    border: 1px solid #e76f51;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-size: 18px;
+    color: #e76f51;
+    text-decoration: none;
+    background: whitesmoke;
+}

@@ -1,0 +1,38 @@
+.button_link {
+    border: 1px solid #e76f51;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-size: 18px;
+    color: #e76f51;
+    text-decoration: none;
+    background: whitesmoke;
+    margin: 10px;
+}
+
+.details {
+    display: block;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.description {
+    flex: 2;
+}
+
+span {
+    color: #e9c46a;
+}
+
+.categories {
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.search_form {
+    text-align: center;
+    display: block;
+}
+
+.input_search {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-size: 18px;
+    margin: 5px;
+    font-family: 'Protest Revolution', sans-serif;
+}
+
+.btn_submit {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-size: 18px;
+    margin: 5px;
+    font-family: 'Protest Revolution', sans-serif;
+    background: whitesmoke;
+}
+
+.btn_clear {
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-size: 18px;
+    font-family: 'Protest Revolution', sans-serif;
+    background: whitesmoke;
+}
